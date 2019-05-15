@@ -8,6 +8,6 @@ This repository contains the analysis performed around ATT&CK data. Vincent Yiu 
 
 ## Example screenshots of Analysis data
 
-![Groups to common techniques count](Screenshots/Group_Technique_Common.jpg)
-![Groups to Techniques](Screenshots/GroupXTechnique.png)
-![Techniques to Groups](Screenshots/TechniqueXGroup.png)
+Groups to common techniques count: ![Groups to common techniques count](Screenshots/Group_Technique_Common.jpg)
+Groups to Techniques: ![Groups to Techniques](Screenshots/GroupXTechnique.png)
+Techniques to Groups: ![Techniques to Groups](Screenshots/TechniqueXGroup.png)
