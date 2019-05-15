@@ -5,3 +5,9 @@ This repository and it's contributors are in no way affiliated with MITRE, or th
 # ATT&CK Research and Analysis Repository
 
 This repository contains the analysis performed around ATT&CK data. Vincent Yiu is not a data scientist; all of the conclusions should not be taken as facts and should be used only as a starting point for further research.
+
+## Example screenshots of Analysis data
+
+![Groups to common techniques count](Screenshots/Group_Technique_Common.jpg)
+![Groups to Techniques](Screenshots/GroupXTechnique.png)
+![Techniques to Groups](Screenshots/TechniqueXGroup.png)
