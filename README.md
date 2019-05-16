@@ -6,8 +6,9 @@ This repository and it's contributors are in no way affiliated with MITRE, or th
 
 This project would not be possible without the active contributions and commitments from the following members of the community:
 
-(@vysecurity)[https://twitter.com/vysecurity]
-(@msgeekuk)[https://twitter.com/msgeekuk]
+[@vysecurity](https://twitter.com/vysecurity)
+
+[@msgeekuk](https://twitter.com/msgeekuk)
 
 # ATT&CK Research and Analysis Repository
 
