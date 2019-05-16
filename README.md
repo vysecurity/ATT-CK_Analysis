@@ -2,6 +2,13 @@
 
 This repository and it's contributors are in no way affiliated with MITRE, or the Official ATT&CK team. We are community contributors who have come together and to start this analysis of the ATT&CK data. MITRE employees may also contribute but usually out of their own private time.
 
+## Contributors
+
+This project would not be possible without the active contributions and commitments from the following members of the community:
+
+(@vysecurity)[https://twitter.com/vysecurity]
+(@msgeekuk)[https://twitter.com/msgeekuk]
+
 # ATT&CK Research and Analysis Repository
 
 This repository contains the analysis performed around ATT&CK data. Vincent Yiu is not a data scientist; all of the conclusions should not be taken as facts and should be used only as a starting point for further research.
